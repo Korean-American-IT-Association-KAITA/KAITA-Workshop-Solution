@@ -20,5 +20,5 @@
 7. [스텝 6 - 깃허브 워크플로우 입문](https://github.com/Korean-American-IT-Association-KAITA/KAITA-Workshop-Solution/issues/7)
 8. [스텝 7 - 이미지 리지스트리 (Image Registry) 입문](https://github.com/Korean-American-IT-Association-KAITA/KAITA-Workshop-Solution/issues/8)
 9. [스텝 8 - 클라우드 입문 - Microsoft Azure](https://github.com/Korean-American-IT-Association-KAITA/KAITA-Workshop-Solution/issues/9)
-10.[스텝 9 - 데브옵스 입문 - GitHub Actions](https://github.com/Korean-American-IT-Association-KAITA/KAITA-Workshop-Solution/issues/10)
-11.[스텝 10 - 다음 스텝 그리고 숙제](https://github.com/Korean-American-IT-Association-KAITA/KAITA-Workshop-Solution/issues/11)
+10. [스텝 9 - 데브옵스 입문 - GitHub Actions](https://github.com/Korean-American-IT-Association-KAITA/KAITA-Workshop-Solution/issues/10)
+11. [스텝 10 - 다음 스텝 그리고 숙제](https://github.com/Korean-American-IT-Association-KAITA/KAITA-Workshop-Solution/issues/11)
