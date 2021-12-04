@@ -15,7 +15,7 @@
 2. [스텝 1 - 깃허브 (GitHub) 입문](https://github.com/Korean-American-IT-Association-KAITA/KAITA-Workshop-Solution/issues/2)
 3. [스텝 2 - HTML 입문](https://github.com/Korean-American-IT-Association-KAITA/KAITA-Workshop-Solution/issues/3)
 4. [스텝 3 - 웹앱 (Web Application) 입문 - NodeJS](https://github.com/Korean-American-IT-Association-KAITA/KAITA-Workshop-Solution/issues/4)
-5. [스텝 4 - 컨테이너 (Container) - 도커 (Docker)](https://github.com/Korean-American-IT-Association-KAITA/KAITA-Workshop-Solution/issues/5)
+5. [스텝 4 - 컨테이너 (Container) 입문 - 도커 (Docker)](https://github.com/Korean-American-IT-Association-KAITA/KAITA-Workshop-Solution/issues/5)
 6. [스텝 5 - 깃허브 마크다운 (Markdown) 파일 입문](https://github.com/Korean-American-IT-Association-KAITA/KAITA-Workshop-Solution/issues/6)
 7. [스텝 6 - 깃허브 워크플로우 입문](https://github.com/Korean-American-IT-Association-KAITA/KAITA-Workshop-Solution/issues/7)
 8. [스텝 7 - 이미지 리지스트리 (Image Registry) 입문](https://github.com/Korean-American-IT-Association-KAITA/KAITA-Workshop-Solution/issues/8)
